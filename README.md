@@ -4,3 +4,4 @@
 
 ### TODOs
 - [ ] add SVG for cutting from acrylic
+- [ ] add clips that fit into holes on PCB to 3D model
